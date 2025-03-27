@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883931127136",
+    "project_id": "dmmwproject",
+    "storage_bucket": "dmmwproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883931127136:android:e68436fe855cdb879f9205",
+        "android_client_info": {
+          "package_name": "com.example.dm_mw_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJqkTPWbeSv1YDP7S0cAPNWzWZl3cV-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
