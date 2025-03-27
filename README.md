@@ -1,4 +1,4 @@
-# dm_mw_project
+# Tournaments_App
 
 A new Flutter project.
 
