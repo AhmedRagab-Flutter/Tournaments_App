@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Alt text](Screenshot_2025-03-27-18-16-09-20_3d563f9e9ed844ac5bd768b7012c757d.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
