@@ -8,6 +8,10 @@ A new Flutter project.
 <img src="Screenshot_2025-03-27-18-16-28-59_3d563f9e9ed844ac5bd768b7012c757d.jpg" alt="Screenshot" width="300">
 <img src="Screenshot_2025-03-27-18-17-39-25_3d563f9e9ed844ac5bd768b7012c757d.jpg" alt="Screenshot" width="300">
 
+# Download the App
+
+[Download APK](https://github.com/AhmedRagab-Flutter/Tournaments_App/releases/tag/v1.0.0/app-release.apk)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
